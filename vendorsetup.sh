@@ -16,5 +16,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_platina-userdebug
-add_lunch_combo omni_platina-eng
+add_lunch_combo twrp_platina-userdebug
+add_lunch_combo twrp_platina-eng
